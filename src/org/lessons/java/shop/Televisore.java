@@ -1,17 +1,17 @@
 package org.lessons.java.shop;
 
 public class Televisore extends Prodotto{
-    private int dimensionTv;
+    private double dimensionTv;
     private boolean smartTv=true;
 
 
-    public Televisore(String productName, String productDescription, double productPrice, int dimensionTv, boolean smartTv) {
+    public Televisore(String productName, String productDescription, double productPrice, double dimensionTv, boolean smartTv) {
         super(productName, productDescription, productPrice);
         this.dimensionTv = dimensionTv;
         this.smartTv = smartTv;
     }
 
-    public int getDimensionTv() {
+    public double getDimensionTv() {
         return dimensionTv;
     }
 

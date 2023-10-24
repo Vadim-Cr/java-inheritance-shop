@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38d1d5a9-06bf-4306-a55e-4be147f0dc18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bank/Conto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/shop/Carrello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/shop/Cuffie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/shop/Smartphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/shop/Televisore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="38d1d5a9-06bf-4306-a55e-4be147f0dc18" name="Changes" comment="ancora lontano">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/shop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/shop/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/shop/Prodotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/shop/Prodotto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/shop/Carrello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/shop/Carrello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/shop/Televisore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/shop/Televisore.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +50,20 @@
       <option name="presentableId" value="Default" />
       <updated>1697804662401</updated>
     </task>
+    <task id="LOCAL-00001" summary="ancora lontano">
+      <option name="closed" value="true" />
+      <created>1698074560549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698074560549</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ancora lontano" />
+    <option name="LAST_COMMIT_MESSAGE" value="ancora lontano" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
